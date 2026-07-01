@@ -1,0 +1,17 @@
+{
+    "A09": {
+        "accuracy": 0.33098591549295775,
+        "balanced_accuracy": 0.3317781690140845,
+        "precision": 0.40434027777777776,
+        "recall": 0.3317781690140845,
+        "specificity": 0.7771727274834572,
+        "f1_score": 0.3025445877522231,
+        "cohen_kappa": 0.10868847043277174,
+        "roc_auc": 0.5701341275550834,
+        "pr_auc": 0.316370370286283,
+        "inference_latency_ms": 1.3864930246917295,
+        "memory_usage_mb": 249.96875,
+        "gpu_utilization_mb": 0.0,
+        "train_time_sec": 0.2623789310455322
+    }
+}
